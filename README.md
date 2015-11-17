@@ -1,5 +1,9 @@
 ##Digital Sundial by Mojoptix
 
+The original post from the author here - 
+* The episode in [ENGLISH]: http://www.mojoptix.com/2015/10/25/mojoptix-001-digital-sundial/
+* L'épisode en [FRANCAIS]: http://www.mojoptix.com/fr/2015/10/12/ep-001-cadran-solaire-numerique
+
 Currently this is just the github copy of the thingiverse file with README.md (this file) -
 * http://www.thingiverse.com/thing:1068443/
 
