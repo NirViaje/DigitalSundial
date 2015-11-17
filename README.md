@@ -7,7 +7,7 @@ The original post from the author here -
 Currently this is just the github copy of the thingiverse file with README.md (this file) -
 * http://www.thingiverse.com/thing:1068443/
 
-However it will be good to be a general shape sundial (shadow) generator.
+A general pattern sundial (shadow) generator will be cool.
 
 ####Other Digital Sundial on github
 * [Sliced digital sundial](https://github.com/osresearch/gnomon) by osresearch
