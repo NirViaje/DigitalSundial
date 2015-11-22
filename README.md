@@ -11,7 +11,7 @@ A general pattern sundial (shadow) generator will be cool.
 
 ##Usage
 
-in Sundial_Digital_13oct2015.scad
+inside [Sundial_Digital_13oct2015.scad](https://github.com/NirViaje/DigitalSundial/blob/master/Sundial_Digital_13oct2015.scad)
 
 ```
 // Choose what you want to print/display:
